@@ -1,4 +1,4 @@
-FROM sergeyzh/centos-mc
+FROM centos:centos6
 
 MAINTAINER Sergey Zhukov, sergey@jetbrains.com
 
